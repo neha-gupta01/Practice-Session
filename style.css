@@ -32,7 +32,21 @@ body {
   padding: 8px;
   text-align: left;
 }
+.end {
+  display: flex;
+}
+.attachment {
+  width: 58%;
+}
 
+.instruction p {
+  font-size: 13px;
+}
 .invoice-summary {
+  width: 42%;
   text-align: right;
+}
+.footer {
+  text-align: center;
+  font-style: italic;
 }
